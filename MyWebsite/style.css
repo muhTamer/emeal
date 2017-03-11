@@ -18,7 +18,7 @@ h2 {
     padding-top: 2%;
 }
 h3 {
-    font-size: 175%;
+    font-size: 200%;
     line-height: 155%;
     padding: 5% 0;
     font-weight: 400;
@@ -53,7 +53,7 @@ header {
     float: left;
     width: 200px;
     height: 60px;
-    background: url(img/RD.png) no-repeat center;
+    background: url(img/logo.png) no-repeat center;
 }
 /*--- Start Navigation --*/
 nav {
@@ -85,7 +85,7 @@ nav ul li a:hover{
 /*---End Navigation--*/
 .banner {
     width: 100%;
-    background-color: #6991AC;
+    background-color: white;
 }
 .banner-inner {
     max-width: 1100px;
@@ -112,42 +112,6 @@ nav ul li a:hover{
     color: #F0F0F0;
     font-size: 500%;
     padding: 13% 0 4% 0;
-}
-.inner-wrapper {
-    float: left;
-    width: 100%;
-    background-color: #C3D7DF
-}
-article {
-    float: left;
-    margin: 0 auto;
-    width: 50%;
-    height: auto;
-}
-#tablet {
-    background-color: #C3D7DF;
-}
-#mobile {
-    background-color: #AADCD2;
-}
-aside {
-    float: right;
-    margin: 0 auto;
-    width: 50%;
-    height: auto;
-}
-#tablet2 {
-    background-color: #A2B2C1;
-}
-.inner-wrapper-2 {
-    float: left;
-    width: 100%;
-    background-color: #C3D7DF;
-}
-.inner-wrapper-3 {
-    float: left;
-    width: 100%;
-    background-color: #AADCD2
 }
 footer {
     background-color: #6991AC;
@@ -196,7 +160,7 @@ footer.second p {
     }
     #logo {
         margin: 15px 0 20px -25px;
-        background: url(img/RD_mobile.png) no-repeat center;
+        background: url(img/logo.png) no-repeat center;
     }
     #menu-icon {
         display: inline-block;
